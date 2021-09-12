@@ -1,0 +1,13 @@
+[submodule "components/lvgl"]
+	path = components/lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "components/kairos_core"]
+	path = components/kairos_core
+	url = https://github.com/arturgoms/KairOS-core.git
+[submodule "components/lvgl_display_drivers"]
+	path = components/lvgl_display_drivers
+	url = https://github.com/arturgoms/lvgl_esp32_drivers.git
+	branch = feature/ssd1351_support
+[submodule "components/ssd1306"]
+	path = components/ssd1306
+	url = https://github.com/lexus2k/ssd1306.git
